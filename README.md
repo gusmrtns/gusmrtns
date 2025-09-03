@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Gustavo Martins, and I'm a backend and full-stack software developer from Ceará, Brazil. I’m passionate about technology and always learning new things. I enjoy solving complex problems and building efficient, innovative solutions. Let’s connect and exchange ideas!</h2>
+<h2 align="left">Hi, my name is Gustavo Martins and I’m from Quixadá, Ceará, Brazil.  
+I’m passionate about Cybersecurity and currently building my skills to grow in this field.  
+I enjoy learning new technologies, exploring security concepts, and working on projects that improve digital safety.!</h2>
 
 ###
 
